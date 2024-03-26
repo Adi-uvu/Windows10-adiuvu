@@ -15,6 +15,8 @@
 
 # Dodano!
 
+[+] virtualbox-guest-additions
+
 [+] wallpaper 0.0.24
 
 
