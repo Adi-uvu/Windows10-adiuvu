@@ -1,4 +1,4 @@
-# Windows10-aduuvu
+# Windows10-adiuvu
 
 # Zaktualizowano
 [&] Firefox-developer-edition 125.0b4 (64 bity)
