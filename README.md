@@ -1,4 +1,6 @@
 # Windows10-adiuvu
+![Zrzut ekranu 2024-03-26 150927](https://github.com/Adi-uvu/Windows10-adiuvu/assets/102376281/8d8123f5-62e1-4448-a5f8-aa95e21a7a33)
+
 
 # Zaktualizowano
 [&] Firefox-developer-edition 125.0b4 (64 bity)
@@ -11,7 +13,7 @@
 
 [&] Windowsn 22H2 KB5034441
 
-# Dodano![Zrzut ekranu 2024-03-26 150927](https://github.com/Adi-uvu/Windows10-adiuvu/assets/102376281/33468609-4056-433d-ab44-98009e934f29)
+# Dodano!
 
 [+] wallpaper 0.0.24
 
